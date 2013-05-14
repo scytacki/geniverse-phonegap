@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.concord.geniverse"
+        id        = "org.concord.geniverse.local"
         version   = "1.0.0">
 
-    <name>Geniverse</name>
+    <name>Geniverse Local</name>
 
     <description>
         Explore the genetics of dragons
